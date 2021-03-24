@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Umbraco Deploy Issue
+    url: https://github.com/umbraco/Umbraco.Deploy.Issues/issues/new/choose
+    about: Please create issues involving Deploy on the specific tracker for Deploy 👍
