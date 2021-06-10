@@ -1,0 +1,12 @@
+---
+name: 🚪 Umbraco Cloud Portal Issue
+description: "For problems with, or feature request for the umbraco.io portal where you manage your Umbraco Cloud site(s)"
+labels: "category/portal"
+body:
+- type: textarea
+  id: "description"
+  attributes:
+    label: "Issue description"
+    description: "Write a summary of the issue you want to report."
+  validations:
+    required: true

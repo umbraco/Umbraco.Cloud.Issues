@@ -1,0 +1,15 @@
+---
+name: ☁ General Umbraco Cloud issue
+description: "If you don't know what to choose from the specific choices below, then just start here! 👍"
+body:
+- type: textarea
+  id: "description"
+  attributes:
+    label: "Issue description"
+    description: "Write a summary of the issue you want to report."
+    placeholder: >
+      Try to pinpoint any problems as much as possible.
+
+      Make sure to let us know which versions of Umbraco, Deploy and/or Forms you're using, if applicable
+  validations:
+    required: true

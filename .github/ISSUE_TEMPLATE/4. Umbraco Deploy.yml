@@ -1,0 +1,16 @@
+---
+name: 🚛 Umbraco Deploy Issue
+description: "When you have issues/feature requests for Umbraco Deploy on Cloud (Deploy On Premises has a specific link below)"
+labels: "category/umbraco-deploy"
+body:
+- type: textarea
+  id: "description"
+  attributes:
+    label: "Issue description"
+    description: "Write a summary of the issue you want to report."
+    placeholder: >
+      Try to pinpoint any problems as much as possible.
+
+      Make sure to let us know which versions of Umbraco, Deploy and/or Forms you're using, if applicable
+  validations:
+    required: true
