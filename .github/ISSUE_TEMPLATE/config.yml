@@ -3,6 +3,9 @@ contact_links:
   - name: ⁉ Umbraco Cloud Support Question
     url: https://www.umbraco.io
     about: For support questions please log into your umbraco.io account and use the chat in the bottom right corner to talk to our support team.
+  - name: 💟 Umbraco Heartcore Issue
+    url: https://github.com/umbraco/Umbraco.Heartcore.Issues/
+    about: Please create issues involving Umbraco Heartcore on the specific tracker using the "Open" button 👉
   - name: 🚚 Umbraco Deploy On Premises Issue
     url: https://github.com/umbraco/Umbraco.Deploy.Issues/issues/new/choose
     about: Please create issues involving Deploy On Premises on the specific tracker using the "Open" button 👉
