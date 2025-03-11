@@ -12,3 +12,6 @@ contact_links:
   - name: 🔒 Security Issue
     url: https://umbraco.com/about-us/trust-center/security-and-umbraco/how-to-report-a-vulnerability-in-umbraco/
     about: Please visit our security center to report any possible security issues
+  - name: 💡 Feature Request
+    url: https://github.com/umbraco/Umbraco.Cloud.Issues/discussions/new?category=ideas
+    about: Please add your idea into the discussions section
